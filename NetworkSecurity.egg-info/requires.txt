@@ -10,6 +10,3 @@ pyaml
 dagshub
 fastapi
 uvicorn
-
-
-# -e .
